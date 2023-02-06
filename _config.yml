@@ -1,4 +1,5 @@
 remote_theme: jekyll/minima
+site.title: "B00MERANG"
 
 minima:
   skin: dark
