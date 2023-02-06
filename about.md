@@ -1,6 +1,7 @@
 ---
 style: page
 title: About us
+permalink: /about
 ---
 
 We're a group of developers making themes for a variety of desktop environments. We've been active since 2015, when we published a very barebones Windows 10 theme.
