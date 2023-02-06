@@ -1,5 +1,6 @@
 title: "B00MERANG"
 header_pages:
+  - index.md
   - about.md
 
 remote_theme: jekyll/minima
