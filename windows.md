@@ -4,12 +4,6 @@ layout: page
 permalink: /windows
 ---
 
-A portfolio of our themes inspired on the appearance of past and present releases of Microsoft's OS
-
-#### Notice
-> Some screenshots date all the way back to 2018 and may not reflect the current state of the theme
-
-# Windows
 The world's most popular (and least popular) OS, in most of it's variations!
 
 ### DOS-based
