@@ -4,6 +4,10 @@ header_pages:
   - linux-themes.md
   - about.md
 
+author:
+  name: Elbullazul
+  email: contact@elbullazul.net
+
 remote_theme: jekyll/minima
 
 minima:
