@@ -7,7 +7,7 @@ permalink: /windows
 The world's most popular (and least popular) OS, in most of it's variations!
 
 ### DOS-based
-These versions were based on MS-DOS and look somewhat dated nowadays.
+These versions were based on MS-DOS and look somewhat dated, but remain classy.
 
 | Windows 2.0 | Windows 3.11 | Windows 95 |
 | --- | --- | --- |
