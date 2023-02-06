@@ -1,5 +1,8 @@
-remote_theme: jekyll/minima
 title: "B00MERANG"
+header_pages:
+  - about.md
+
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
