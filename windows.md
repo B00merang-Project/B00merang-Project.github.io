@@ -12,7 +12,7 @@ A portfolio of our themes inspired on the appearance of past and present release
 # Windows
 The world's most popular (and least popular) OS, in most of it's variations!
 
-### Pre-2000
+### DOS-based
 These versions were based on MS-DOS and look somewhat dated nowadays.
 
 | Windows 2.0 | Windows 3.11 | Windows 95 |
