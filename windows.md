@@ -1,6 +1,7 @@
 ---
 title: Windows themes
 layout: page
+permalink: /windows
 ---
 
 A portfolio of our themes inspired on the appearance of past and present releases of Microsoft's OS
