@@ -14,6 +14,6 @@ A portfolio of our themes inspired on the appearance of popular operating system
 | --- | --- | --- |
 | [![windows](resources/screenshots/windows-10/threshold_1.png)](/windows) | [![macos](resources/screenshots/macos/rome_1.png)](/macos) | [![android](resources/screenshots/android/android_1.png)](/material) |
 
-| [Solaris](/solaris) | [Ubuntu](/solaris) | [Other](/other) |
+| [Solaris](/solaris) | [Ubuntu](/solaris) | [Other](/other-themes) |
 | --- | --- | --- |
 | [![solaris](resources/screenshots/solaris-11/sunos-5.11-nimbus_1.png)](/solaris) | [![ubuntu](resources/screenshots/ubuntu-16.04/xenial_1.png)](/ubuntu) | [![others](resources/screenshots/beos/dano_1.png)](/other) |
