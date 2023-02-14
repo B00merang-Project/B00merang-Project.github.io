@@ -20,12 +20,12 @@ Icon themes are a bit harder to manage for us than regular app themes, so we spe
 | --- | --- | --- |
 | ![windows-95](resources/icons/windows-95/folder.png) | ![windows-xp](resources/icons/windows-xp/folder.png) | ![windows-longhorn](resources/icons/windows-longhorn/folder.png) |
 
-
 | Windows 7 | Windows 8 | Windows 10 |
 | --- | --- | --- |
 | ![windows-7](resources/icons/windows-7/folder.png) | ![windows-8](resources/icons/windows-8/folder.png) | ![windows-10](resources/icons/windows-10/folder.png) |
 
 ### Downloads
+
 | Theme | Source | Supported | Last updated | Link |
 | --- | --- | --- | --- | --- |
 | Mac OS 9 | [GitHub](https://github.com/gtk-upgraded/Platinum9) | 🔴 No | Jul 16, 2019 | [Download](https://github.com/gtk-upgraded/Platinum9/archive/master.zip) |
