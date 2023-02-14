@@ -11,7 +11,7 @@ Icon themes are a bit harder to manage for us than regular app themes, so we spe
 - Most of these themes haven't been significantly updated since 2019, use at your own discretion
 
 ### Previews
-| [Mac OS 9] | Mac OS X | OS X 10.7 |
+| Mac OS 9 | Mac OS X | OS X 10.7 |
 | --- | --- | --- |
 | ![macos-9](resources/icons/macos-9/folder.png) | ![macos-10](resources/icons/macos-10/folder.png) | ![ox-x-10.7](resources/icons/os-x-10.7/folder.png) |
 

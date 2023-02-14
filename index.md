@@ -3,9 +3,9 @@ layout: page
 title: Home
 ---
 
-Welcome to our project's website! You can learn more about the project, what we do and check out the blog once we get it working!
+Welcome to our project's website! You can learn more about the project, what we do and check out the blog (once we get it working!)
 
-In the meantime, here's a few of our themes:
+Here are a few of our themes. You can also check the full list [here](/linux-themes).
 
 ### Windows 10
 
