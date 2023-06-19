@@ -30,9 +30,9 @@ Remember the skeumorphic calendar app? We didn't port that.
 ### Flat
 Out with the old, in with the new, flat, bright and colorful!
 
-| [OS X Yosemite](https://github.com/B00merang-Project/OS-X-Yosemite) | [macOS Catalina](https://github.com/B00merang-Project/macOS-Catalina) | [macOS Catalina Dark](https://github.com/B00merang-Project/macOS-Catalina-Dark) |
-| --- | --- | --- |
-| ![os-x-yosemite](resources/screenshots/os-x-10.10/syrah_1.png) | ![macos-catalina](resources/screenshots/macos-10.15/jazz_1.png) | ![macos-catalina-dark](resources/screenshots/macos-10.15/jazz-dark_1.png) |
+| [macOS Catalina](https://github.com/B00merang-Project/macOS-Catalina) | [macOS Catalina Dark](https://github.com/B00merang-Project/macOS-Catalina-Dark) |
+| --- | --- |
+| ![macos-catalina](resources/screenshots/macos-10.15/jazz_1.png) | ![macos-catalina-dark](resources/screenshots/macos-10.15/jazz-dark_1.png) |
 
 ### Current
 Apple's current designs rely on transparency to keep the design interesting. Unfortunately, it's difficult to recreate in GNOME and other DEs.
