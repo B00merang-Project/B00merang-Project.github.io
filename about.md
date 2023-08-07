@@ -10,6 +10,6 @@ The primary goal of this project is to develop and maintain themes based on old-
 
 We mostly suport GNOME, Cinnamon and Xfce desktops, with some support for LXDE and Unity. We'd like to support as many environments as possible, but we have to find a balance between complexity and availability.
 
-The tools we use to develop themes can be [found here](), and we have a tutorial to get started with them [here]().
+The tools we use to develop themes can be [found here](https://github.com/B00merang-Project/Azurra_framework/), and we have a tutorial to get started with them [here](https://github.com/B00merang-Project/Azurra_framework/wiki/1.-Requirements).
 
 As most of the developers on this project have their own business to tend to, we occasionally go on extended breaks, but we intend on keeping the project going for the forseeable future.
