@@ -9,7 +9,7 @@ The world's most popular (and least popular) OS, in most of it's variations!
 ### DOS-based
 These versions were based on MS-DOS and look somewhat dated, but remain classy.
 
-| [Windows 2.0](https://github.com/B00merang-Project/Windows-2.0) | [Windows 3.11](https://github.com/B00merang-Project/Windows-3.11) | [Windows 95](https://github.com/B00merang-Project/) |
+| [Windows 2.0](https://github.com/B00merang-Project/Windows-2.0) | [Windows 3.11](https://github.com/B00merang-Project/Windows-3.11) | [Windows 95](https://github.com/B00merang-Project/Windows-95) |
 | --- | --- | --- |
 | ![windows-2](resources/screenshots/windows-2/windows-1.5_1.png) | ![windows-3.11](resources/screenshots/windows-3.11/janus_1.png) | ![windows-95](resources/screenshots/windows-95/chicago_1.png) |
 
